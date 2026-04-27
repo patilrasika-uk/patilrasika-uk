@@ -39,7 +39,7 @@ I am a motivated graduate with a background in **Commerce (B.Com)** and a strong
 
 ## 📫 Contact Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: patilrasika362@gmail.com
 * 🔗 LinkedIn: (add your profile link)
 
 ---
