@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Rasika Andrew Patil
 
-<!--
-**patilrasika-uk/patilrasika-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Com Graduate
+📍 Mumbai, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+I am a motivated graduate with a background in **Commerce (B.Com)** and a strong interest in building practical skills in technology and business. I am currently developing my expertise in data handling, analysis, and programming.
+
+---
+
+## 🛠️ Skills
+
+* 📊 Advanced Excel (Data Analysis, Formulas, Pivot Tables)
+* 🐍 Python (Basics to Intermediate)
+* 🧾 Purchasing Skills (Procurement, Vendor Handling, Negotiation)
+* 💻 MS Office (Word, Excel, PowerPoint)
+
+---
+
+## 📚 Currently Learning
+
+* Data Analysis using Python
+* Automation in Excel
+* Business Analytics
+
+---
+
+## 📈 Projects
+
+*(Add your projects here, for example:)*
+
+* 📊 Sales Data Analysis using Excel
+* 🐍 Basic Python Programs (Calculator, File Handling, etc.)
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 🔗 LinkedIn: (add your profile link)
+
+---
+
+⭐ *Always eager to learn and grow professionally*
+
